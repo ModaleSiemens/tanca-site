@@ -1,2 +1,2 @@
 # tanca-site
-Sa tanca's site.
+My *tanca* game's website.
